@@ -1,0 +1,28 @@
+
+
+    [x]-[C]
+
+
+You are now at: Stairway.
+There is nothing here.
+
+>> EAST
+You move east, to Goose Heaven.
+
+Chaser is trying to catch you!
+But your presence still terrifies them...
+
+
+[ ]-[x]
+
+
+You are now at: Goose Heaven.
+A Chaser is looking you!
+The path to freedom is clear. You can FLEE this place.
+
+>> HONK
+You sneak up behind your quarry and honk with all the force of a really angry airhorn! HONK!
+Chaser is spooked! They flee immediately!
+
+None can stand against the power of the goose!
+========= V I C T O R Y =========
